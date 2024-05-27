@@ -10,22 +10,22 @@ This repository contains my Tableau project analyzing bank customer churn. The p
 ## Visualizations
 
 ### Churn Rate by Geography
-(![Screenshot 2024-05-27 130324](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/7349fedb-afcf-42d2-835c-08a1d9f2b7ab)
-)
+![Screenshot 2024-05-27 130324](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/7349fedb-afcf-42d2-835c-08a1d9f2b7ab)
+
 ### Churn Rate by Age
-(![Screenshot 2024-05-27 130405](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/ff8e04c5-f0ce-4223-ac79-b30c67a9c3db)
-)
+![Screenshot 2024-05-27 130405](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/ff8e04c5-f0ce-4223-ac79-b30c67a9c3db)
+
 
 ### Active Customers
-(![Screenshot 2024-05-27 130437](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/ccc80fb2-1a97-400e-b41c-9bd894fe16f0)
-)
+![Screenshot 2024-05-27 130437](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/ccc80fb2-1a97-400e-b41c-9bd894fe16f0)
+
 
 ### Churn Rate by Credit Score
-(![Screenshot 2024-05-27 131300](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/27b4cccb-7490-4202-9d40-25295eaad084)
-)
+![Screenshot 2024-05-27 131300](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/27b4cccb-7490-4202-9d40-25295eaad084)
+
 ### Complete Project 
-(![Screenshot 2024-05-27 131501](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/99103003-bd34-4806-944f-10e257fd080b)
-)
+![Screenshot 2024-05-27 131501](https://github.com/ShubhamKalsekar/Dashboard-Using-Tableau/assets/93903997/99103003-bd34-4806-944f-10e257fd080b)
+
 ## Getting Started
 
 1. **Download the Tableau Workbook:** Click [here]([Uploading Bank Customer Churn Prediction Dashboard.twb…]()
